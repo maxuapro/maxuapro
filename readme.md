@@ -9,6 +9,56 @@
 </head>
 
 <body>
+  
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Roboto', sans-serif;
+      color: aliceblue;
+    }
+
+    body {
+      background-color: rgb(30, 51, 58);
+    }
+
+    .impoblock {
+      margin: 0 auto;
+      margin: 20px;
+      padding: 20px;
+      border: 4px solid;
+      /* border-radius: 30px; */
+      border-image: linear-gradient(#ea3cf6, #0c369f) 30;
+      border-radius: 50em;
+      text-align: center;
+    }
+
+    .bulletpoints {
+      /* width: 100%; */
+      margin: 20px;
+      margin-left: 40px;
+    }
+
+    .flexrow {
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+    }
+
+    .pill {
+      padding: 7px;
+      padding-left: 14px;
+      padding-right: 14px;
+      border: 2px solid aliceblue;
+      margin: 5px;
+      background-image: linear-gradient(to bottom, #274776, #8f1d93);
+      border-radius: 50px;
+    }
+  </style>
+  
   <div class="bulletpoints">
     <h1>Maxuapro 😎</h1><span>the official Github page</span>
   </div>

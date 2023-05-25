@@ -1,17 +1,76 @@
-<!DOCTYPE html>
-<html lang="en">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Asap:wght@800&display=swap');
 
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="styles.css">
-</head>
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+  color: aliceblue;
+}
 
-<body>  
+body {
+  background-color: rgb(30, 51, 58);
+}
+
+.back {
+  background-color: rgb(30, 51, 58);
+  padding: 15px;
+}
+
+.heading {
+  font-size: 3rem;
+  -webkit-text-stroke: 1px rgb(255, 255, 255);
+  color: blueviolet;
+  font-family: 'Asap', sans-serif;
+}
+
+.impoblock {
+  margin: 0 auto;
+  margin: 20px;
+  padding: 20px;
+  border: 4px solid;
+  /* border-radius: 30px; */
+  border-image: linear-gradient(#ea3cf6, #0c369f) 30;
+  border-radius: 50em;
+  text-align: center;
+}
+
+.bulletpoints {
+  /* width: 100%; */
+  margin: 20px;
+  margin-left: 40px;
+}
+
+.flexrow {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.pill {
+  padding: 7px;
+  padding-left: 14px;
+  padding-right: 14px;
+  border: 2px solid aliceblue;
+  margin: 5px;
+  background-image: linear-gradient(to bottom, #274776, #8f1d93);
+  border-radius: 50px;
+}
+
+.link {
+  color: #ea3cf6;
+}
+</style>
+
+<div id="identifier" class="back">
+
   <div class="bulletpoints">
-    <h1>Maxuapro 😎</h1><span>the official Github page</span>
+    <h1  class="heading">{ maxuapro }  😎</h1>
+    <span>JS & Python developer</span>
   </div>
+  <br>
 
   <div class="impoblock">
     <p>
@@ -23,7 +82,7 @@
       this
       page and we have something to talk about. Now go carefully through my repos and remember everything you saw,
       because
-      I'be asking about them on our interview... and 2. You are very likely here to offer me a cooperation of a kind,
+      I'll be asking about them on our interview... and 2. You are very likely here to offer me a cooperation of a kind,
       which is always good news for me )
     </p>
   </div>
@@ -34,13 +93,7 @@
     </p>
     <br>
     <div class="flexrow">
-      <div style="padding: 7px;
-    padding-left: 14px;
-    padding-right: 14px;
-    border: 2px solid aliceblue;
-    margin: 5px;
-    background-image: linear-gradient(to bottom, #274776, #8f1d93);
-    border-radius: 50px;">JavaScript</div>
+      <div class="pill">JavaScript</div>
       <div class="pill">React</div>
       <div class="pill">Remix</div>
       <div class="pill">Python</div>
@@ -66,9 +119,12 @@
     </p>
     <br>
     <p>
-      - Good question! I can work with you on your project, or you can work with me on my project!
+      - Good question! I can work with you on your project, or you can work with me on my project! Check out my resume first:
+    </p>
+    <p>
+      <a class="link" href="https://priceless-lalande-cfc146.netlify.app/">MAXUAPRO</a>
     </p>
   </div>
-</body>
 
-</html>
+</div>
+- [Duck Duck Go](https://duckduckgo.com)

@@ -93,7 +93,7 @@ body {
     </p>
     <br>
     <div class="flexrow">
-      <div class="pill">JavaScript</div>
+      <div id="identifier" class="pill">JavaScript</div>
       <div class="pill">React</div>
       <div class="pill">Remix</div>
       <div class="pill">Python</div>
@@ -127,4 +127,3 @@ body {
   </div>
 
 </div>
-- [Duck Duck Go](https://duckduckgo.com)

@@ -94,7 +94,13 @@ body {
     <br>
     <div class="flexrow">
       <div id="identifier" class="pill">JavaScript</div>
-      <div class="pill">React</div>
+      <div style="padding: 7px;
+  padding-left: 14px;
+  padding-right: 14px;
+  border: 2px solid aliceblue;
+  margin: 5px;
+  background-image: linear-gradient(to bottom, #274776, #8f1d93);
+  border-radius: 50px;">React</div>
       <div class="pill">Remix</div>
       <div class="pill">Python</div>
       <div class="pill">FastAPI</div>

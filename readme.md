@@ -1,135 +1,50 @@
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Asap:wght@800&display=swap');
+<h1 align="left">{ maxuapro }</h1>
 
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  font-family: 'Roboto', sans-serif;
-  color: aliceblue;
-}
+###
 
-body {
-  background-color: rgb(30, 51, 58);
-}
+<p align="left">JS / Python developer</p>
 
-.back {
-  background-color: rgb(30, 51, 58);
-  padding: 15px;
-}
+###
 
-.heading {
-  font-size: 3rem;
-  -webkit-text-stroke: 1px rgb(255, 255, 255);
-  color: blueviolet;
-  font-family: 'Asap', sans-serif;
-}
+<h2 align="left">About me</h2>
 
-.impoblock {
-  margin: 0 auto;
-  margin: 20px;
-  padding: 20px;
-  border: 4px solid;
-  /* border-radius: 30px; */
-  border-image: linear-gradient(#ea3cf6, #0c369f) 30;
-  border-radius: 50em;
-  text-align: center;
-}
+###
 
-.bulletpoints {
-  /* width: 100%; */
-  margin: 20px;
-  margin-left: 40px;
-}
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning ML with Python<br>🎯 Goals: turn ideas into reality<br>🎲 Fun fact: I used to save code on audio tapes...</p>
 
-.flexrow {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-}
+###
 
-.pill {
-  padding: 7px;
-  padding-left: 14px;
-  padding-right: 14px;
-  border: 2px solid aliceblue;
-  margin: 5px;
-  background-image: linear-gradient(to bottom, #274776, #8f1d93);
-  border-radius: 50px;
-}
+<h2 align="left">I code with</h2>
 
-.link {
-  color: #ea3cf6;
-}
-</style>
+###
 
-<div id="identifier" class="back">
-
-  <div class="bulletpoints">
-    <h1  class="heading">{ maxuapro }  😎</h1>
-    <span>JS & Python developer</span>
-  </div>
-  <br>
-
-  <div class="impoblock">
-    <p>
-      Hello there, I'm Max aka Maxuapro.
-    </p>
-    <br>
-    <p>
-      Really glad to see you here on my Github page! Why? Because to me it means two things: 1. You actually checked
-      this
-      page and we have something to talk about. Now go carefully through my repos and remember everything you saw,
-      because
-      I'll be asking about them on our interview... and 2. You are very likely here to offer me a cooperation of a kind,
-      which is always good news for me )
-    </p>
-  </div>
-
-  <div class="bulletpoints">
-    <p>
-      Here are technologies that I LOVE to work with:
-    </p>
-    <br>
-    <div class="flexrow">
-      <div id="identifier" class="pill">JavaScript</div>
-      <div style="padding: 7px;
-  padding-left: 14px;
-  padding-right: 14px;
-  border: 2px solid aliceblue;
-  margin: 5px;
-  background-image: linear-gradient(to bottom, #274776, #8f1d93);
-  border-radius: 50px;">React</div>
-      <div class="pill">Remix</div>
-      <div class="pill">Python</div>
-      <div class="pill">FastAPI</div>
-      <div class="pill">MongoDB</div>
-      <div class="pill">Firebase</div>
-    </div>
-    <br>
-    <p>
-      Here are technologies that I CAN work with:
-    </p>
-    <br>
-    <div class="flexrow">
-      <div class="pill">Node.js</div>
-      <div class="pill">Nest.js</div>
-      <div class="pill">Next.js</div>
-    </div>
-  </div>
-
-  <div class="impoblock">
-    <p>
-      - Okay, Max! you would say now. What we can do together?
-    </p>
-    <br>
-    <p>
-      - Good question! I can work with you on your project, or you can work with me on my project! Check out my resume first:
-    </p>
-    <p>
-      <a class="link" href="https://priceless-lalande-cfc146.netlify.app/">MAXUAPRO</a>
-    </p>
-  </div>
-
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" width="52" alt="nestjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" width="52" alt="tensorflow logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" width="52" alt="django logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" width="52" alt="firebase logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" width="52" alt="materialui logo"  />
 </div>
+
+###
+
+<p align="left">- Okay, Max! you would say now. What we can do together?<br><br>- Good question! I can work with you on your project, or you can work with me on my project! Check out my resume first:</p>
+
+#####
+
+### [maxuapro (website, resume, projects)](https://priceless-lalande-cfc146.netlify.app/)
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maxuapro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxuapro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###

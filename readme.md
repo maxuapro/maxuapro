@@ -38,7 +38,7 @@
 
 #####
 
-### [maxuapro (website, resume, projects)](https://priceless-lalande-cfc146.netlify.app/)
+### [maxuapro (website, resume, projects)](https://maxuapro.netlify.app/)
 
 ###
 
